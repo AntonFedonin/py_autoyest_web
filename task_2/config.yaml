@@ -1,5 +1,6 @@
 url: https://test-stand.gb.ru/gateway/login
 address: https://test-stand.gb.ru/api/posts
+post_url: https://test-stand.gb.ru/api/posts
 
 login: Ani
 password: f4b3b974a8
